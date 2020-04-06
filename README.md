@@ -3,8 +3,15 @@ Anthos
 
 
 # Architecting Hybrid Cloud Infrastructure with Anthos
+
 https://google.qwiklabs.com/courses/1336
 
+
+## Coursera
+https://www.coursera.org/specializations/architecting-hybrid-cloud-infrastructure-anthos
+
+## Pluralsight
+https://www.pluralsight.com/paths/architecting-hybrid-cloud-infrastructure-with-anthos
 
 -------------
 
